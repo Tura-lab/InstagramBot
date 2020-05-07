@@ -12,11 +12,11 @@
 An automated instagram bot for increasing number of followers
 
 # Requierments:
-1 - Python, obviously
-2 - Selenium (use --> python -m pip install selenium) 
-3 - Chrome driver (download link https://chromedriver.chromium.org/downloads)
-4 - Mysql database (I recommend you download XAMP)
-5 - Mysql connector (use --> python -m pip install mysql-connector)
+  1 - Python, obviously
+  2 - Selenium (use --> python -m pip install selenium) 
+  3 - Chrome driver (download link https://chromedriver.chromium.org/downloads)
+  4 - Mysql database (I recommend you download XAMP)
+  5 - Mysql connector (use --> python -m pip install mysql-connector)
 
 
 # How do I set it up?
